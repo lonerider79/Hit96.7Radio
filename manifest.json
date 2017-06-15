@@ -1,0 +1,13 @@
+{
+  "name": "Hit 96.7 FM Malayalam Radio",
+  "version": "1.0.9",
+  "description": "Dubai Hit 96.7 FM Malayalam 24x7 Online Radio",
+  "icons": {"16": "96716.png","128": "967128.png"},
+  "app": {
+    "launch": {
+      "local_path": "HIT967.html",
+      "width":643,
+      "height":429
+    }
+  },  "permissions": ["*://*.streamtheworld.com/","*://*.adobe.com"]
+}
